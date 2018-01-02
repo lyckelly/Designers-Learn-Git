@@ -250,8 +250,7 @@ xczswt1993      想要學習網站開發的入門者
 zewait          无业流民
 explosic4  什么都不会,2333
 shren           平面爱好者
-manglekuo       留學生
-manglekuo	留學生 //from clone
+manglekuo       留
 小明            同学
 shmilychomi     just for a study
 JackZeng        前端工程师
@@ -342,3 +341,4 @@ rimiHS          程序员
 rimiXK		程序员
 tony            学生
 RossLing        hello,everyone!
+QQQQ      hi
